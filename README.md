@@ -427,4 +427,3 @@ adb shell am start -n com.app.damnvulnerablebank/.ViewBalance
 
 > 🎓 **Lab réalisé dans un cadre pédagogique** — Cours Sécurité des Applications Mobiles  
 > ⚙️ Analysé avec **MobSF v4.5.0** sur **Kali Linux / Mobexler**  
-> 📅 Date : 18 mai 2026
